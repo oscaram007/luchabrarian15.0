@@ -10,7 +10,7 @@ Imagine your library has a ghost problem. Not a *FRIENDLY* ghost problem. A *swa
 
 You're the **LUCHABRARIAN** ➡️ part librarian, part luchador, 100% done with these ghosts. Dash around the library floor, scoop up scattered books, deliver them to the correct shelves, and survive long enough to file everything before chaos wins.
 
-It's Pac-Man meets library science... With lore. And a trash can specifically for *BANANA PEELS*. 🍌🗑️ (CUE **HOLLABACK GIRL** by Gwen Stefani... iykyk 💅🔉🎶📢 )
+It's Pac-Man meets library science... With lore. And a trash can specifically for *BANANA PEELS*. 🍌🗑️ (play **HOLLABACK GIRL** by Gwen Stefani... iykyk 💅🔉🎶📢 )
 
 ---
 
