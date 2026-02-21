@@ -1,16 +1,16 @@
-# 📚 The Luchabrarian v2.0 — Phase 1
+# 📚🤜💥🏛️ The Luchabrarian Version 15.0
 
-> *A top-down action game where you are a librarian, the library is haunted, and the Dewey Decimal System is your only weapon. Built entirely with HTML, CSS, and JavaScript — no engines, no libraries (the code kind), no excuses.*
+> *A top-down action game where you are a librarian, the library is haunted, and Book Genres are your only weapon. Built entirely with HTML, CSS, and JavaScript — no engines, no libraries (the code kind) *
 
 ---
 
 ## 🏛️ What Is This Game?
 
-Imagine your library has a ghost problem. Not a *cute* ghost problem. A *swarming, teleporting, exploding, shape-shifting* ghost problem. Your job? Keep shelving books anyway. 📖👻
+Imagine your library has a ghost problem. Not a *FRIENDLY* ghost problem. A *swarming, teleporting, exploding, shape-shifting* ghost problem. Your job? Keep shelving books anyway. 😝📖👻
 
-You're the **Luchabrarian** — part librarian, part luchador, 100% done with these ghosts. Dash around the library floor, scoop up scattered books, deliver them to the correct shelves, and survive long enough to file everything before chaos wins.
+You're the **LUCHABRARIAN** ➡️ part librarian, part luchador, 100% done with these ghosts. Dash around the library floor, scoop up scattered books, deliver them to the correct shelves, and survive long enough to file everything before chaos wins.
 
-It's Pac-Man meets library science. With lore. And a trash can specifically for *Trash* books. 🗑️
+It's Pac-Man meets library science... With lore. And a trash can specifically for *BANANA PEELS*. 🍌🗑️ (CUE **HOLLABACK GIRL** by Gwen Stefani... iykyk )
 
 ---
 
