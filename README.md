@@ -17,7 +17,7 @@ It's Pac-Man meets library science... With lore. And a trash can specifically fo
 ## ✨ Features
 
 - 🗺️ **Top-down action gameplay** — free movement across a full library floor
-- 📚 **13 book categories** — Romance, Science, Horror, Sci-Fi, Manga, Forbidden, Mystery, Fantasy, History, Music, Art, Tablets, and... Trash
+- 📚 **12 book categories** — Romance, Science, Horror, Sci-Fi, Manga, Forbidden, Mystery, Fantasy, History, Music, Art, Tablets, and... the Trash can (we are at a library of course!)
 - 👻 **10 unique ghost types** — each with its own terrifying personality (see below)
 - ⚡ **7 power-ups** — from Speed Boosts to Time Freeze to Auto-Sort
 - 🎯 **4 difficulty modes** — Easy, Medium, Hard, and Endless (for people who hate themselves a little)
