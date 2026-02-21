@@ -192,4 +192,9 @@ The following are strictly prohibited without explicit written authorization:
 
 ---
 
+## 📞 Contact
+
+For licensing inquiries, permission requests, or other questions, please contact Oscar A. Martinez via LinkedIn.
+
+---
 *Made with curiosity, late nights, and a deep personal respect for anyone who has ever worked a library reference desk. You are the real Luchabrarians. 😊🏆*
